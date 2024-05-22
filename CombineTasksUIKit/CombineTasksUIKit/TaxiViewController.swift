@@ -14,7 +14,7 @@ class TaxiViewController: UIViewController {
     
     private let dataLabel = {
         let label = UILabel()
-        label.textColor = .black
+        label.textColor = .white
         label.textAlignment = .center
         return label
     }()
