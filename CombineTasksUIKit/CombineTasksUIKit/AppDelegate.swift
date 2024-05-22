@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CombineTasksUIKit
 //
-//  Created by Anastasiya Omak on 22/05/2024.
+//  Created by Anastasiya Omak on 20/05/2024.
 //
 
 import UIKit
